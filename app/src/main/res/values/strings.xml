@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mama\'s Meal Magic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeText">Welcome to Mama\'s Meal Magic</string>
+    <string name="whatToEatTodayText">What would you like to eat today?</string>
+    <string name="popularRecipes">Popular recipes</string>
+    <string name="categoryText">Categories</string>
+    <string name="searchText">Find a Recipe...</string>
+    <string name="favoritesText">Your Favorite Recipes</string>
+</resources>
