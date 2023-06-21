@@ -3,9 +3,10 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="welcomeText">Welcome to Mama\'s Meal Magic</string>
-    <string name="whatToEatTodayText">What would you like to eat today?</string>
-    <string name="popularRecipes">Popular recipes</string>
+    <string name="suggestion">Our suggestion for you</string>
+    <string name="popularRecipes">Popular Seafood recipes</string>
     <string name="categoryText">Categories</string>
     <string name="searchText">Find a Recipe...</string>
     <string name="favoritesText">Your Favorite Recipes</string>
+    <string name="description">Here you can find every kind of delicious recipe</string>
 </resources>
